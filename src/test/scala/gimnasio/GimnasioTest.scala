@@ -1,6 +1,5 @@
 package gimnasio
 import scala.util.{ Success, Failure, Try }
-import gimnasio.Gimnasio._
 import org.scalatest.FreeSpec
 import org.scalatest.Matchers
 import org.scalatest.BeforeAndAfter
